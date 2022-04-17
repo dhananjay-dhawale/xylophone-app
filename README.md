@@ -2,6 +2,7 @@
 
 Latest version Flutter project.
 
+![Screenshot](Screenshot (198).png)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
