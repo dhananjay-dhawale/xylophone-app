@@ -1,6 +1,6 @@
 # sl4_a4
 
-A new Flutter project.
+Latest version Flutter project.
 
 ## Getting Started
 
