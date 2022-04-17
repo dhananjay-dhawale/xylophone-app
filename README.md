@@ -2,7 +2,7 @@
 
 Latest version Flutter project.
 
-![Screenshot](Screenshot (198).png)
+![alt text](https://github.com/dhananjay-dhawale/xylophone-app/blob/main/Screenshot/Screenshot%20(198).png?raw=true)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
